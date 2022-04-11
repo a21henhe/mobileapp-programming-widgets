@@ -2,4 +2,6 @@
     <string name="app_name">Widgets</string>
     <string name="todo">TODO</string>
     <string name="loginText">Vänligen logga in</string>
+    <string name="username">Användarnamn</string>
+    <string name="password">Lösenord</string>
 </resources>
